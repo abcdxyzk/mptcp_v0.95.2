@@ -9,6 +9,7 @@
 #
 # Normal rules (sorted alphabetically)
 #
+!0001-add-mptcp-v0.95.2.patch
 .*
 *.a
 *.asn1.[ch]
